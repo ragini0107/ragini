@@ -1,0 +1,34 @@
+						.navigation{
+							display:flex;
+							flex-direction:row;
+							justify-content:space-between;
+							border: 3px solid red;
+							width:100%;
+							height:30%;
+							background:aqua;
+							padding:0 10px;
+							flex-wrap:wrap;
+							
+						}
+						
+						
+						
+						.logo img{
+							width:180px;
+							height:120px;
+						}
+						
+						
+						.nav-content li{
+							display:inline;
+							padding:0%;
+							
+							
+							
+						
+						}
+						.nav-content li a{
+							text-decoration:none;
+							color:black;
+							
+						}
